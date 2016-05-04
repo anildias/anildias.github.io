@@ -421,3 +421,12 @@ footer {
     color:#444;
   }
 }
+
+.line-spacing {
+  margin: 8px 0; 
+}
+
+.icon-no-border {
+  border: 0px;
+}
+
